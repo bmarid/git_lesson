@@ -175,26 +175,22 @@ sh replace_in_file character1/James.txt "[???]"
 
 
 ```bash
-# Your answer
-
+# Your answer - git add .
 ```
 
 
 ```bash
-# Your answer
-
+# Your answer - git status
 ```
 
 
 ```bash
-# Your answer
-
+# Your answer - git commit -m "James Bond new text" 
 ```
 
 
 ```bash
-# Your answer
-
+# Your answer - git push
 ```
 
 ### 5.2 Fight Club
