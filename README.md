@@ -125,7 +125,7 @@ git commit -m "changed Ygritte ??? on my text"
 
 ```bash
 # Your answer
-
+git push
 ```
 
 Easy right? Now you can check that everything is ok on the github page.
