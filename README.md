@@ -37,7 +37,7 @@ Of course each command could be reversed, but some of them are harder to reverse
 
 
 ```bash
-# Your answer
+# 1 answer - https://github.com/bmarid/git_lesson
 
 ```
 
@@ -89,7 +89,7 @@ Perfect now that you have done a modification on a file, you can commit it on gi
 
 ```bash
 # Your answer
-
+git commit -m "changed Ygritte ??? on my text"  
 ```
 
 Did not work? that's normal you can't commit files that you did not add to your local changes. To see the files that have changes we usually use `git status`
@@ -106,13 +106,13 @@ git status
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "changed Ygritte ??? on my text"
 ```
 
 **Bravo!** You have done you're first commit
