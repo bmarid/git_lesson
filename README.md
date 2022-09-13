@@ -214,25 +214,23 @@ sh replace_in_file character2/Tyler.txt "[???]"
 
 
 ```bash
-# Your answer
+# Your answer - git add .
+```
+
+
+```bash
+# Your answer - git status
+```
+
+
+```bash
+# Your answer - git commit -m "Tyler new text"
 
 ```
 
 
 ```bash
-# Your answer
-
-```
-
-
-```bash
-# Your answer
-
-```
-
-
-```bash
-# Your answer
+# Your answer - git push
 
 ```
 
