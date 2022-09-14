@@ -348,19 +348,20 @@ sh replace_in_file character2/Luke.txt "[???]"
 
 ```bash
 # Your answer
+git add .
 
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "noo noo"
 ```
 
 
 ```bash
 # Your answer
-
+git status
 ```
 
 Ok, in fact I was wrong Luke didn't said it twice, it think it was just one simple *"NOOOOO"*.
@@ -375,19 +376,19 @@ Ok, in fact I was wrong Luke didn't said it twice, it think it was just one simp
 
 ```bash
 # Your answer
-
+git status 
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your anwser
-
+git commit -m "sh on one NOOO"
 ```
 
 Well after reviewing the scene (that you can find just here: https://www.youtube.com/watch?v=bv20ZoBcdO8 we were right in the first place.
