@@ -344,19 +344,18 @@ sh replace_in_file character2/Luke.txt "[???]"
 
 
 ```bash
-# Your answer
+# Your answer - git add .
+```
+
+
+```bash
+# Your answer - git status
 
 ```
 
 
 ```bash
-# Your answer
-
-```
-
-
-```bash
-# Your answer
+# Your answer - git commit - m “noo noo”
 
 ```
 
@@ -371,7 +370,7 @@ Ok, in fact I was wrong Luke didn't said it twice, it think it was just one simp
 
 
 ```bash
-# Your answer
+# Your answer 
 
 ```
 
