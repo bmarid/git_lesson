@@ -255,24 +255,25 @@ sh replace_in_file character2/Jim.txt "[???]"
 
 
 ```bash
-# Your answer - git add .
-```
-
-
-```bash
-# Your answer - git status
+# Your answer
 
 ```
 
 
 ```bash
-# Your answer - git commit - m “Jim words”
+# Your answer
 
 ```
 
 
 ```bash
-# Your answer - git push
+# Your answer
+
+```
+
+
+```bash
+# Your answer
 
 ```
 
@@ -297,25 +298,25 @@ sh replace_in_file character2/Emmet.txt "[???]"
 
 
 ```bash
-# Your answer - git add .
+# Your answer
 
 ```
 
 
 ```bash
-# Your answer - git status
+# Your answer
 
 ```
 
 
 ```bash
-# Your answer - git commit - m “Doc words”
+# Your answer
 
 ```
 
 
 ```bash
-# Your answer - git push
+# Your answer
 
 ```
 
