@@ -462,25 +462,25 @@ sh replace_in_file character1/Forrest.txt "[???]"
 
 ```bash
 # Your answer
-git status
+
 ```
 
 
 ```bash
 # Your answer
-git add .
+
 ```
 
 
 ```bash
 # Your answer
-git commit -m "ex 7, Forrest"
+
 ```
 
 
 ```bash
 # Your answer
-git push
+
 ```
 
 Perfect now let's imagine that we want to go back to the status we had before this exercise.
