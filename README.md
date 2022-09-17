@@ -215,25 +215,25 @@ sh replace_in_file character2/Tyler.txt "[???]"
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "comment"
 ```
 
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 ### 5.3 Apollo 13
@@ -258,25 +258,25 @@ sh replace_in_file character2/Jim.txt "[???]"
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "comment"
 ```
 
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 ### 5.4 Back to the future part II
@@ -301,25 +301,25 @@ sh replace_in_file character2/Emmet.txt "[???]"
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "com"
 ```
 
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 # Exercise 6: Revert a local commit
@@ -398,19 +398,20 @@ Well after reviewing the scene (that you can find just here: https://www.youtube
 
 ```bash
 # Your answer
-
+nano READNE.md 
+#add comments
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git status
 ```
 
 **<font color='#ffb799'>Push your changes to the remote server.</font>**
@@ -418,13 +419,13 @@ Well after reviewing the scene (that you can find just here: https://www.youtube
 
 ```bash
 # Your answer
-
+git commit -m "noo!"
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 You just reverted a local commit and pushed, well done!
