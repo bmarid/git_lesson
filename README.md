@@ -215,25 +215,25 @@ sh replace_in_file character2/Tyler.txt "[???]"
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m “add 5.2 Fight Club description in rdm ”
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 ### 5.3 Apollo 13
@@ -258,25 +258,25 @@ sh replace_in_file character2/Jim.txt "[???]"
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m “add 5.3 Apollo 13 description rdm”
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 ### 5.4 Back to the future part II
@@ -301,25 +301,25 @@ sh replace_in_file character2/Emmet.txt "[???]"
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m “add 5.4 Back to the future description rdm”
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 # Exercise 6: Revert a local commit
@@ -398,19 +398,19 @@ Well after reviewing the scene (that you can find just here: https://www.youtube
 
 ```bash
 # Your answer
-
+git reset --soft HEAD~1
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m "new changes"
 ```
 
 **<font color='#ffb799'>Push your changes to the remote server.</font>**
@@ -418,13 +418,13 @@ Well after reviewing the scene (that you can find just here: https://www.youtube
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 You just reverted a local commit and pushed, well done!
@@ -462,25 +462,25 @@ sh replace_in_file character1/Forrest.txt "[???]"
 
 ```bash
 # Your answer
-
+git status
 ```
 
 
 ```bash
 # Your answer
-
+git add .
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m “add Forest  chocolate”
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 Perfect now let's imagine that we want to go back to the status we had before this exercise.
@@ -490,25 +490,25 @@ Perfect now let's imagine that we want to go back to the status we had before th
 
 ```bash
 # Your answer
-
+git reflog
 ```
 
 
 ```bash
 # Your answer
-
+git revert /ID/
 ```
 
 
 ```bash
 # Your answer
-
+git commit -m “revert /ID/”
 ```
 
 
 ```bash
 # Your answer
-
+git push
 ```
 
 # Exercise 8: Creating a branch 
